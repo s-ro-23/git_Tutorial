@@ -1,1 +1,3 @@
 This is a sample file, text is OK.
+File updating.
+Some new code changes are updated.
